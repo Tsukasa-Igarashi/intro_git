@@ -6,3 +6,4 @@ git commit
 
 aaaaaa
 git status
+git diff
